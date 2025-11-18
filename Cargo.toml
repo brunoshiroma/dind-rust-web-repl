@@ -1,0 +1,6 @@
+[package]
+name = "dind-rust-web-repl"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

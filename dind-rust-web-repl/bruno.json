@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "dind-rust-web-repl",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
